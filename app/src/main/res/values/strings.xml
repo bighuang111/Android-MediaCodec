@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">vpcc</string>
+    <string name="set_ip_text">Set IP Address</string>
+    <string name="service_start">Connect</string>
+    <string name="service_stop">Disconnect</string>
+    <string name="set_ip_message">Please input the IP Address like this:(xxx.xxx.xxx.xxx)</string>
+    <string name="set_port_message">Please input the Port like this:(5000)</string>
+    <string name="set_matrix_message">Please input the Matrix values</string>
+</resources>
